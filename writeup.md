@@ -34,7 +34,7 @@ https://github.com/Victoria-Serrano/Victoria-Serrano
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-I am excied to work with new people and new websites/resources. I think I will continue to grow my knowledge in technology through this class while learning different units. I am excited to learn more about how AI, now, changes and is a big perspective in daily life for most people now such as students, teachers, anyone who works, etc. Lastly, I am excited to learn about the outcomes of AI and the data analysis that will be learned throughout taking the course.
+I am excited to work with new people and new websites/resources. I think I will continue to grow my knowledge in technology through this class while learning different units. I am excited to learn more about how AI, now, changes and is a big perspective in daily life for most people now such as students, teachers, anyone who works, etc. Lastly, I am excited to learn about the outcomes of AI and the data analysis that will be learned throughout taking the course.
 
 ---
 
